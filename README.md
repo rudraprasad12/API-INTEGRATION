@@ -14,5 +14,6 @@ MENTOR - NEELA SANTOSHA
 
 OUTPUT
 
-![Uploading Screenshot 2026-01-11 125436.png…]()
+<img width="1920" height="1080" alt="ss wearher" src="https://github.com/user-attachments/assets/2dbad6de-baa8-46d5-814f-0ea886c4d5c4" />
+
 
